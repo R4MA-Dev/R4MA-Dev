@@ -2,5 +2,5 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning NodeJS and MongoDB
 - 💞️ I’m looking to collaborate on any project as a front-end developer
-- 🚀 Look my portfolio ---> https://ramiromercado-portafolio.web.app/
+- 🚀 Check out my portfolio ---> https://ramiromercado-portafolio.web.app/
 - 📫 How to reach me? Contact me by email  ---> xmercado656@gmail.com
